@@ -57,9 +57,9 @@ This project, **Automated Lip Reading Using Deep Learning Techniques in Python**
 - Used pre-trained models to predict text from uploaded videos.
 - Displayed **frame-wise visualization** of lip movement predictions.
 
-## Installation & Setup
+## Essential Installation Software
 
-### Prerequisites
+### Setup
 
 Ensure you have the following installed:
 
@@ -67,6 +67,11 @@ Ensure you have the following installed:
 - TensorFlow 2.x
 - OpenCV
 - Streamlit
+- NumPy
+- Pandas
+- Matplotlib
+- Imageio
+- Gdown
 
 ## Expected Output
 
